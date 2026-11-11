@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Chinesenativefishes.com/sitemap.xml
+Sitemap: https://mazh114.github.io/Chinesenativefishes/sitemap.xml
